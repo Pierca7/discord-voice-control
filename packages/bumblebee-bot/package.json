@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/Pierca7/fictional-umbrella#readme",
   "dependencies": {
-    "@discordjs/opus": "^0.3.2",
+    "@discordjs/opus": "^0.8.0",
     "@ffmpeg-installer/ffmpeg": "^1.0.20",
     "axios": "^0.21.1",
     "discord.js": "^12.2.0",
